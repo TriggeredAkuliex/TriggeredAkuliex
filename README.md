@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @TriggeredAkuliex
-- 👀 I’m interested in Pofacraft and VSS Clicker
-- 🌱 I’m not currently learning 
-- 💞️ I’m looking to collaborate on Room inc.
-- 📫 How to reach me Room Launcher
-
-<!---
-TriggeredAkuliex/TriggeredAkuliex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm [SleepaiiFX](https://pofaweb.cf) 👋 <a href="https://twitter.com/sleepaiifx"> <img align="left" alt="Sleepaii~ (FX) | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> </a> <br /> <br /> Hi, I'm Sleepaii, a passionate backend web developer from France. - 🔭 I’m currently working on [tw-dsc](https://github.com/korobaka/tw-dsc) - 🌱 I’m currently learning CSS - 💬 Ask me about anything [here](https://github.com/korobaka/korobaka/issues) **Languages and Tools:** *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)* <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=triggeredakuliex&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggeredakuliex&layout=compact&theme=material-palenight" /> </a>
